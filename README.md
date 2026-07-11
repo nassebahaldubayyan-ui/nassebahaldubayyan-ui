@@ -48,19 +48,16 @@ I enjoy building intelligent applications that combine AI with interactive user 
 * Visual Studio
 * Jupyter Notebook
 
-## 🌟 Featured Project
+## 🚀 Selected Projects
 
-### AI-Powered Physiotherapy Rehabilitation System
+* Encryption Project — https://github.com/nassebahaldubayyan-ui/Encryption-Project
+A Python-based encryption toolkit and experiments focused on practical cryptography utilities.
 
-A graduation project that combines Artificial Intelligence with gamification to assist rehabilitation for patients with Brachial Plexus Injury (BPI).
+* ML Project — https://github.com/nassebahaldubayyan-ui/ML_Project
+Collection of Jupyter notebooks with experiments for data preprocessing, model training, and evaluation.
 
-**Features**
-
-* AI pose and hand tracking using MediaPipe
-* Interactive rehabilitation games built with Unity
-* Progress monitoring dashboard
-* Django backend
-* Motion analysis and performance evaluation
+* Gamified Physiotherapy — https://github.com/nassebahaldubayyan-ui/physio-gamification-project
+An interactive rehabilitation platform combining MediaPipe motion tracking, AI-driven performance analysis, a Django backend, and Unity games to make physiotherapy engaging and trackable.
 
 ## 📚 Currently Learning
 
@@ -71,6 +68,10 @@ A graduation project that combines Artificial Intelligence with gamification to 
 * Full-Stack Development
 
 ## 📫 Connect with Me
+
+Email: your.email@example.com
+Website: https://yourwebsite.com
+LinkedIn: https://linkedin.com/in/yourprofile
 
 Feel free to explore my repositories and follow my journey as I continue learning and building exciting projects!
 
