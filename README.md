@@ -69,9 +69,9 @@ An interactive rehabilitation platform combining MediaPipe motion tracking, AI-d
 
 ## 📫 Connect with Me
 
-Email: your.email@example.com
-Website: https://yourwebsite.com
-LinkedIn: https://linkedin.com/in/yourprofile
+*Email: nassebahaldubayyan@gmail.com
+*Website: -------
+*LinkedIn: ------
 
 Feel free to explore my repositories and follow my journey as I continue learning and building exciting projects!
 
