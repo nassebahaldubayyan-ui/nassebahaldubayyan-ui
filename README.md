@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nasiba
+# Hi there 👋, I'm Nassebah
 
 🎓 Computer Science student passionate about Artificial Intelligence, Software Development, and Computer Vision.
 
@@ -6,12 +6,12 @@ I enjoy building intelligent applications that combine AI with interactive user 
 
 ## 🚀 About Me
 
-* 🎓 Computer Science student
-* 🤖 Interested in Artificial Intelligence and Machine Learning
-* 🎮 Building AI-powered rehabilitation games with Unity
-* 👁️ Working with MediaPipe for human pose and hand tracking
-* 🌐 Developing web applications using Django and React
-* 📊 Always learning new technologies and improving my programming skills
+* Computer Science student
+* Interested in Artificial Intelligence and Machine Learning
+* Building AI-powered rehabilitation games with Unity
+* Working with MediaPipe for human pose and hand tracking
+* Developing web applications using Django
+* Always learning new technologies and improving my programming skills
 
 ## 💻 Technologies & Tools
 
@@ -27,7 +27,6 @@ I enjoy building intelligent applications that combine AI with interactive user 
 **Frameworks & Libraries**
 
 * Django
-* React
 * MediaPipe
 * OpenCV
 * scikit-learn
@@ -61,7 +60,6 @@ A graduation project that combines Artificial Intelligence with gamification to 
 * Interactive rehabilitation games built with Unity
 * Progress monitoring dashboard
 * Django backend
-* React web interface
 * Motion analysis and performance evaluation
 
 ## 📚 Currently Learning
